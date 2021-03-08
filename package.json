@@ -1,0 +1,11 @@
+{
+    "name": "spaceshooter-io",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "dependencies": {
+        "socket.io": "^3.1.2"
+    }
+}
